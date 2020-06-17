@@ -10,6 +10,7 @@
 - [Sobre](#-sobre)
 - [Tecnologias](#-tecnologias)
 - [Licença](#-licença)
+- [Como baixar e executar o projeto](#-como-baixar-e-executar-o-projeto)
 
 ---
 
@@ -29,10 +30,30 @@ O projeto foi desenvolvido utilizando as seguintes **tecnologias**:
 
 ---
 
+## 📂 Como baixar e executar o projeto
+
+```bash
+
+    # Clonar o repositório
+    $ git clone https://github.com/MarianeAlgayer/Ecoleta
+
+    # Entrar no diretório do projeto
+    $ cd Ecoleta
+
+    # Instalar as dependências
+    $ npm install
+
+    # Executar o projeto
+    $ npm start
+
+```
+
+---
+
 ## 📝 Licença
 
 Esse projeto está sob a **licença MIT**.
 
 ---
 
-Feito com 🖤 by [Mariane Algayer](https://github.com/MarianeAlgayer) 👋
+Feito com 🖤 por [Mariane Algayer](https://github.com/MarianeAlgayer) 👋
