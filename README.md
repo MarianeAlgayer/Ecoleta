@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes **tecnologias**:
     $ git clone https://github.com/MarianeAlgayer/ecoleta
 
     # Entrar no diretório do projeto
-    $ cd Ecoleta
+    $ cd ecoleta
 
     # Instalar as dependências
     $ npm install
