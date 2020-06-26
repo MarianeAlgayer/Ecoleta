@@ -4,6 +4,9 @@
 <h1>
     <img src="https://ik.imagekit.io/ms7dbkxibiu/imagem-readme_KLlsDm3_W.png">
 </h1>
+<h1>
+    <img src="public\assets\ecoleta-gif.gif">
+</h1>
 
 ## 📌 Índice
 
