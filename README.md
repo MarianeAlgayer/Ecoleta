@@ -9,8 +9,8 @@
 
 - [Sobre](#-sobre)
 - [Tecnologias](#-tecnologias)
-- [Licença](#-licença)
 - [Como baixar e executar o projeto](#-como-baixar-e-executar-o-projeto)
+- [Licença](#-licença)
 
 ## 💻 Sobre 
 
@@ -21,6 +21,7 @@ O **Ecoleta** é um marketplace que ajuda pessoas a encontrarem pontos de coleta
 O projeto foi desenvolvido utilizando as seguintes **tecnologias**:
 
 - [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
